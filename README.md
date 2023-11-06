@@ -26,9 +26,9 @@ Use Closing Operation.
 ### Step 6:
 Print the output and end the program.
 ## PROGRAM:
-Developed by : Javith farkhan S
+Developed by : Rama E. K. Lekshmi
 
-Register number : 212221240017
+Register number : 212222240082
 ### Import the necessary packages
 ```python
 import cv2
@@ -68,17 +68,17 @@ plt.axis('off')
 
 ### Input Image
 
-![Di11 1](https://github.com/Javith-farkhan/Opening-and-Closing/assets/94296805/02c7cbc5-9220-43c7-bd04-936c25214bb8)
+![11](https://github.com/Rama-Lekshmi/OPENING--CLOSING/assets/118541549/ed235473-69d9-447d-871e-1e7d10aa376a)
 
 
 ### Result of Opening
 
-![Di11 2](https://github.com/Javith-farkhan/Opening-and-Closing/assets/94296805/c7d15346-434f-4094-a436-cd2d203c20c3)
+![22](https://github.com/Rama-Lekshmi/OPENING--CLOSING/assets/118541549/2f25d905-65a5-4db6-8073-75bee057f02c)
 
 
 ### Result of Closing
 
-![Di11 3](https://github.com/Javith-farkhan/Opening-and-Closing/assets/94296805/5b52e5ef-93a1-4342-b888-9fd5851f93d1)
+![33](https://github.com/Rama-Lekshmi/OPENING--CLOSING/assets/118541549/1d1ebf93-26d4-4bdc-915b-d0ac3415710f)
 
 
 ## RESULT:
